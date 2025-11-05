@@ -1,7 +1,7 @@
 #Tugas Akhir Praktikum Jaringan Komputer Judul 1
 ---
-<li>**Nama : Michael Deffrans C**</li>
-<li>**NPM : 2315061087**</li>
+**Nama : Michael Deffrans C**</li>
+**NPM : 2315061087**
 
 ##Link Video Youtube
 ---
@@ -13,3 +13,4 @@
 Berikut adalah hasil dari percobaan Praktek Tugas Akhir Judul 2
 
 ###1. Topologi Jaringan
+![Desain Topologi Jaringan(Topologi.jpg)
